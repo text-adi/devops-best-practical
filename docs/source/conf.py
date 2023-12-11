@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Best practical for Devops'
-copyright = '2021, Graziella'
+copyright = '2023, Text-ADI'
 author = 'Text-ADI'
 
 release = '0.1'

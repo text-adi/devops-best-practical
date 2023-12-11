@@ -1,19 +1,20 @@
-Welcome to Lumache's documentation!
+Найкращі практики Devops!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Ця документація, є детальним збірником інструкцій для вирішення типових задачами під час роботи devops-м.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Причиною створенням даним, було тим, що є безліч типових задач в linux,
+які виконуються не так часто, але при цьому не так рідко.
+Щоб повторно не шукати інструкції на інших сайтах,
+було ідея створення технічної документації, для виконання базових задач.
 
-.. note::
+Автор
+-----
 
-   This project is under active development.
+Автором даного збірника документації -
+`text-adi <https://github.com/text-adi>`_
 
-Contents
+Зміст
 --------
 
 .. toctree::
